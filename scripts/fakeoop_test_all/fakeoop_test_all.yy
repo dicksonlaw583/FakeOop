@@ -1,8 +1,12 @@
 {
-    "id": "fc4ae07d-3d4f-4acf-9e2b-08956407b5a2",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "fakeoop_test_all",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "FakeOop_test",
+    "path": "folders/Libraries_test/FakeOop_test.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "fakeoop_test_all",
+  "tags": [],
+  "resourceType": "GMScript",
 }
